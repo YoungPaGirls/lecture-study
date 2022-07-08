@@ -18,6 +18,7 @@
 |No.| 강의 | 완료 |
 |:--:|:--:|:--:|
 |1|[Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3) ||
+|2|[Intro to Vue 3 + TypeScript](https://www.vuemastery.com/courses/vue3-typescript/why-vue-&-typescript) ||
 
 
 
