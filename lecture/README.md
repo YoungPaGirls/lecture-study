@@ -17,9 +17,10 @@
 
 |No.| 강의 | 완료 |
 |:--:|:--:|:--:|
-|1|[Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3) ||
-|2|[Intro to Vue 3 + TypeScript](https://www.vuemastery.com/courses/vue3-typescript/why-vue-&-typescript) ||
-|2|[Typescript로 블록체인 만들기](https://nomadcoders.co/typescript-for-beginners/lobby) ||
+|1|[Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3) |✓|
+|2|[Intro to Vue 3 + TypeScript](https://www.vuemastery.com/courses/vue3-typescript/why-vue-&-typescript) |✓|
+|3|[Typescript로 블록체인 만들기](https://nomadcoders.co/typescript-for-beginners/lobby) ||
+|4|[Component Design Patterns](https://www.vuemastery.com/courses/component-design-patterns/introduction) ||
 
 
 
