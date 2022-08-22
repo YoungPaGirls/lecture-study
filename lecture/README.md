@@ -24,6 +24,7 @@
 |5|[Coding Better Composables](https://www.vuemastery.com/courses/coding-better-composables/what-is-a-composable) ||
 |6|[Vue.js 3 Fundamentals with the Composition API](https://www.vuemastery.com/courses/coding-better-composables/what-is-a-composable) ||
 |7|[Vue.js + TypeScript 완벽 가이드](https://www.inflearn.com/course/vue-ts/dashboard) ||
+|8|[React 로 쇼핑몰 만들기 (React 기본)](https://fastcampus.co.kr/dev_online_frontend) ||
 
 
 
