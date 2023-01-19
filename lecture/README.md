@@ -7,7 +7,7 @@
 
 |No.| 강의 | 완료 | 
 |:--:|:--:|:--: |
-|1|iOS Concurrency(동시성) 프로그래밍, 동기 비동기 처리 그리고 GCD/Operation <br> - 디스패치큐와 오퍼레이션큐의 이해 | |
+|1|iOS Concurrency(동시성) 프로그래밍, 동기 비동기 처리 그리고 GCD/Operation <br> - 디스패치큐와 오퍼레이션큐의 이해 |✓|
 
 
 
